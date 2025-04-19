@@ -412,7 +412,8 @@ padding: 10rem;
     .listProduct {
         grid-template-columns: repeat(1, 14rem);
         gap: 30px;
-        width: 100%;  
+        width: 100%;
+        margin-left: 32%;  
     } 
 
     .about-img img{
